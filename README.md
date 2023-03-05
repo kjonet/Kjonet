@@ -3,7 +3,7 @@
 <h2>Help Desk Projects</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configured Active Directory through an Azure VM]
+  - [Configured Active Directory through an Azure VM](https://github.com/kjonet/AD-Deployment.git)
   - Network Security Groups (NSGs) and Inspecting Network Protocols
 - <b>Active Directory</b>
   - Configuring Users with network files shares and permissions
