@@ -9,7 +9,7 @@
   - Image Deployment
   - Configuring Users with network files shares and permissions
 - <b>osTicket</b>
-  - osTicket: Prerequisites and Instalation (https://github.com/kjonet/osTicketsPrerequisite.git)
+  - [osTicket: Prerequisites and Instalation](https://github.com/kjonet/osTicketsPrerequisite.git)
   - osTicket: Post-Installation Configuration
   - osTicket: Ticket Lifecycle Examples
 
