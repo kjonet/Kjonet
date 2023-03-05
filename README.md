@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Howdy! My name is Kahlia and I'm an <b>IT Professional!</B> </H1>
 
-<!--
-**kjonet/Kjonet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Help Desk Projects</h2>
 
-Here are some ideas to get you started:
+- <b>Microsoft Azure</b>
+  - Configured Active Directory through an Azure VM
+  - Network Security Groups (NSGs) and Inspecting Network Protocols
+- <b>Active Directory</b>
+  - Image Deployment
+  - Configuring Users with network files shares and permissions
+- <b>osTicket</b>
+  - osTicket: Prerequisites and Instalation
+  - osTicket: Post-Installation Configuration
+  - osTicket: Ticket Lifecyle examples
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: https://linkedin.com/in/joshmadakor
+
