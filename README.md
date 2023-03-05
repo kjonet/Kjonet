@@ -11,8 +11,5 @@
 - <b>osTicket</b>
   - osTicket: Prerequisites and Instalation
   - osTicket: Post-Installation Configuration
-  - osTicket: Ticket Lifecyle examples
 
-<h2> 🤳 Connect with me:</h2>
-[linkedin]: https://linkedin.com/in/joshmadakor
 
