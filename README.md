@@ -11,6 +11,6 @@
 - <b>osTicket</b>
   - [osTicket: Prerequisites and Instalation](https://github.com/kjonet/osTicketsPrerequisite.git)
   - [osTicket: Post-Installation Configuration](https://github.com/kjonet/osTicket-PostConfiguration-.git)
-  - osTicket: Ticket Lifecycle Examples
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/kjonet/osTicket-LifeCycle.git)
 
 
