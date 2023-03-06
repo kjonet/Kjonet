@@ -4,6 +4,8 @@
 
 - <b>Microsoft Azure</b>
   - [Configured Active Directory through an Azure VM](https://github.com/kjonet/AD-Deployment.git)
+  - [Configuring Users with network files shares and permissions] 
+
 - <b>osTicket</b>
   - [osTicket: Prerequisites and Instalation](https://github.com/kjonet/osTicketsPrerequisite.git)
   - [osTicket: Post-Installation Configuration](https://github.com/kjonet/osTicket-PostConfiguration-.git)
