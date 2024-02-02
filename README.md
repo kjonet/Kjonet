@@ -1,4 +1,4 @@
-<h1>Hey there! My name is Kahlia, your upcoming security analyst! </h1>
+<h1>Hey there! My name is Kahlia, your upcoming Security Analyst! </h1>
 
 <h2>☁️ Azure Projects </h2>
 
