@@ -4,3 +4,4 @@
 
 - <b></b>[Using KQL To Detect Threats](https://github.com/kjonet/Azure-Alerts-Using-KQL)</b>
 - <b></b>[Log Analytics Workspace and SEIM Setup](https://github.com/kjonet/Azure-Logging-and-SIEM-Setup)</b>
+- <b></b>[Incident Response Within Microsoft Sentinel](https://github.com/kjonet/Incident-Response-Within-Microsoft-Sentinel/blob/main/README.md)</b>
