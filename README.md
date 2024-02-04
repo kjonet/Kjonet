@@ -4,7 +4,7 @@ My name is Kahlia, an up-and-coming <b>Security Analyst!</b> </h1>
 <h2> 🎓 My Certifications </h2>
 
 - <b>[COMPTIA Security+](https://www.credly.com/earner/earned/badge/c1fe0f56-8015-4bc0-b182-a0f9f2454b57)</b>
-- <b>[COMPTIA A+](https://www.credly.com/badges/c1fe0f56-8015-4bc0-b182-a0f9f2454b57/public_url)</b>
+- <b>[COMPTIA A+](https://www.credly.com/badges/93bff781-3c6b-4f74-a3f8-e70ed79b188f)</b>
 
 <h2> 📚 What I'm currently Studying For </h2>
 
