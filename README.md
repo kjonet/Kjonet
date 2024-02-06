@@ -19,4 +19,7 @@ My name is Kahlia, an up-and-coming <b>Security Analyst!</b> </h1>
 - <b>[Incident Response Within Microsoft Sentinel](https://github.com/kjonet/Incident-Response-Within-Microsoft-Sentinel/blob/main/README.md)</b>
 
 
+<h2>🪟 Windows Projects </h2>
+
+- <b>[Active Directory Deployment](https://github.com/kjonet/Active-Directory-Deployment)</b>
 
