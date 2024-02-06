@@ -25,5 +25,6 @@ My name is Kahlia, an up-and-coming <b>Security Analyst!</b> </h1>
 - <b>[Active Directory Hardening](https://github.com/kjonet/Hardening-Active-Directory/edit/main/README.md)</b>
 
 
+<h2>🛜 Networking Projects </h2>
 
-
+- <b>[Malware-Traffic Analysis Exercise]
