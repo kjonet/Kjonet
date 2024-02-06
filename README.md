@@ -27,4 +27,4 @@ My name is Kahlia, an up-and-coming <b>Security Analyst!</b> </h1>
 
 <h2>🛜 Networking Projects </h2>
 
-- <b>[Malware-Traffic Analysis Exercise]
+- <b>Malware-Traffic Analysis Exercise
