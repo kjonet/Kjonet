@@ -10,6 +10,9 @@ My name is Kahlia, an up-and-coming <b>Security Analyst!</b> </h1>
 
 - <b>AZ-900: Microsoft Azure Fundamentals</b>
 
+ <h2>🦈 Traffic Analysis </h2>
+
+- <b>[Malware-Traffic Analysis Exercise 1](https://github.com/kjonet/Malware-Traffic-Analysis-Exercise/blob/main/README.md)
 
 <h2>☁️ Azure Projects </h2>
 
@@ -18,15 +21,11 @@ My name is Kahlia, an up-and-coming <b>Security Analyst!</b> </h1>
 - <b>[Log Analytics Workspace and SEIM Setup](https://github.com/kjonet/Azure-Logging-and-SIEM-Setup)</b>
 - <b>[Incident Response Within Microsoft Sentinel](https://github.com/kjonet/Incident-Response-Within-Microsoft-Sentinel/blob/main/README.md)</b>
 
-
 <h2>🪟 Windows Projects </h2>
 
 - <b>[Active Directory Deployment](https://github.com/kjonet/Active-Directory-Deployment)</b>
 - <b>[Active Directory Hardening](https://github.com/kjonet/Hardening-Active-Directory/edit/main/README.md)</b>
 
-<!--- 
-<h2>🛜 Networking Projects </h2>
 
-- <b>Malware-Traffic Analysis Exercise
 
-just --->
+
