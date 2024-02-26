@@ -18,7 +18,7 @@ My name is Kahlia, an up-and-coming <b>Security Analyst!</b> </h1>
 
 - <b>[Azure Honeynet & SEIM](https://github.com/kjonet/Azure-HoneyNet-and-Soc/blob/main/README.md)</b>
 - <b>[Using KQL To Detect Threats](https://github.com/kjonet/Azure-Alerts-Using-KQL)</b>
-- <b>[Log Analytics Workspace and SEIM Setup](https://github.com/kjonet/Azure-Logging-and-SIEM-Setup)</b>
+- <b>[Log Analytics Workspace and SIEM Setup](https://github.com/kjonet/Azure-Logging-and-SIEM-Setup)</b>
 - <b>[Incident Response Within Microsoft Sentinel](https://github.com/kjonet/Incident-Response-Within-Microsoft-Sentinel/blob/main/README.md)</b>
 
 <h2>🪟 Windows Projects </h2>
